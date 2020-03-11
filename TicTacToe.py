@@ -1,5 +1,4 @@
 # Problem 1: tick tack toe
-#2017314461 Muhammad
 import random
 #################################################################################################################################
 #check if the game is finished or not -> 0 (goingon)/ 1(draw)/2 (X/First Player)/3 (O/Second Player)
