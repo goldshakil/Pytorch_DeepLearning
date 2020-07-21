@@ -1,4 +1,4 @@
-# Python_Study
+# Pytorch_DeepLearning
 This Repository is aimed towards getting familiar with python programming and PyTorch
 ## Tutorials and Documentation:
 1) https://pytorch.org/tutorials
