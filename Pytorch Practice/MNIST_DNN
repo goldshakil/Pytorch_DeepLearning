@@ -3,7 +3,7 @@
   "nbformat_minor": 0,
   "metadata": {
     "colab": {
-      "name": "Homework4-2017314461-Muhammad.ipynb",
+      "name": "MNIST_DNN.ipynb",
       "provenance": [],
       "collapsed_sections": []
     },
@@ -22,9 +22,7 @@
         "colab": {}
       },
       "source": [
-        "#2017314471\n",
-        "#Muhammad Shakeel Zuhaib\n",
-        "#HW4_Artificial Intelligence Project\n",
+ 
         "import torch\n",
         "import torchvision\n",
         "from torchvision import transforms, datasets\n",
